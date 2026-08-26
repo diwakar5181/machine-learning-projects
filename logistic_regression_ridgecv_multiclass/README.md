@@ -14,12 +14,13 @@ I built this project to understand Logistic Regression and to explore different 
 - Addressed the problem of imbalanced dataset by running GridSearch with class_weights as a parameter
 
 ## 📁 Project Structure
+```text
 logistic_regression_ridgecv_multiclass/
-├── notebooks                        # Jupyter files directory
+├── notebooks/                        # Jupyter files directory
 │   └── logistic_regression.ipynb    # Executable Jupyter notebook
 ├── requirements.txt                 # Project dependencies
 └── README.md
-
+```
 ## 🚀 Quick Start
 
 Follow these steps to run the project locally:

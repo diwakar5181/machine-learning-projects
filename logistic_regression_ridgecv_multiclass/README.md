@@ -3,6 +3,9 @@
 
 > Implementation of Logistic Regression for binary and multiclass classifications by exploring some of the tools and techniques that can be used to fine tune the model for higher accuracy
 
+## Requirements
+* Python 3.14
+
 ## 🎯 Why I Built This
 I built this project to understand Logistic Regression and to explore different parameters and techniques that can be used to fine tune the model 
 
@@ -28,7 +31,7 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/diwakar5181/machine-learning-projects.git
-   cd logistic_regression
+   cd logistic_regression_ridgecv_multiclass
    ```
 
 2. **Install dependencies:**
@@ -37,7 +40,7 @@ Follow these steps to run the project locally:
    ```
 
 3. **Run the program:**
-   - upload logistic_regression.ipynb to google colab
+   - upload logistic_regression_ridgecv_multiclass.ipynb to google colab
    - or open project in an ide like Visual Studio
 
 ## 💡 What I Learned

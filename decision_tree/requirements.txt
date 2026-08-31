@@ -1,0 +1,5 @@
+seaborn
+scikit-learn
+pandas
+matplotlib
+grip         #for rendering README.md

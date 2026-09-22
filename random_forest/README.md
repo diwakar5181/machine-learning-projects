@@ -60,7 +60,7 @@ Follow these steps to run the project locally:
 ## 💡 What I Learned
 - Random Forest Classifier and Regression models implementation
 - Data cleaning, feature encoding and engineering
-- How to run multiple models and find compare metrics
+- How to run multiple models and compare metrics
 - Classification metrics accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 - Regression metrics r2_score, mean_absolute_error, mean_squared_error
 - Hyperparameter Tuning with GridSearchCV
